@@ -20,6 +20,12 @@ A Python program that helps users analyze their daily step count over a month. I
    - Average step count.
    - A sorted list of step counts in descending order.
 
+## Problem Explanation
+For a detailed explanation of this problem, check the following link:  
+*[Problem Explanation and Walkthrough](#)*  
+*(https://drive.google.com/file/d/10tB2QB09gn6uwirGxHTPrvq9G3y9iF5t/view?usp=sharing
+)*
+
 
 
 # Library Book Borrowing Analysis
